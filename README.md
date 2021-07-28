@@ -21,4 +21,4 @@ SESSION_TOKEN="*******************"
 
 REGION="us-east-1"
 
-BUCKET_NAME="s3://*******************"
+BUCKET_NAME="*******************"
