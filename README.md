@@ -11,7 +11,7 @@ npm start
 
 
 ## Configure Enviromental Variables (clone the project and add the .env file to the root directory localy)
-### .env should contail the folowing
+### .env should contain the folowing:
 
 ACCESS_KEY_ID="*******************"
 
