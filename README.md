@@ -3,7 +3,7 @@
 ```bash
 git clone https://github.com/GalitD/shecodes-midcourse-practice.git
 sudo apt update -y
-sudo apt install npm nodejs
+sudo apt install npm nodejs -y
 cd shecodes-midcourse-practice/
 npm i
 npm start
